@@ -1,0 +1,21 @@
+#AI PROMPTS USED
+
+1) power calibration implement a receiver to recover bitstreams from rx.npy
+2) correct signal/noise power calibration
+3) can u make a curve plot for BER
+3) rectify all the indentation error and syntex
+4) in 0db,5db,10db,15db there are three samples in each.... do according to that
+5)implement RS(15,11) & Viterbi decoding
+6) where does the recovered file gets saved
+7) add to explicitly save them in folder feature in previous code
+8) can u generate a output model image for doppler_2000Hz and snr 10db
+9) doppler frequency compensation before constellation and after  constellation as a line graph
+10) add the needful so that .I can achieve the required insight which is frequency offset estimation and correction
+11) I have metadata(json file) and rx(npy file) downloaded
+
+implement a receiver to recover bitstreams from rx.npy.
+
+Save decoded results in the same directory as: decoded_bits.npy 
+
+Run the evaluation script to generate BER/FER metrics.
+12) replace commpy module and add a alternative module
